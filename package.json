@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "discord-helper.js": "^5.1.1",
+    "discord.js": "^14.11.0"
+  },
+  "name": "smart-systems",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gamearoo-s-Development/smart-systems.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gamearoo-s-Development/smart-systems/issues"
+  },
+  "homepage": "https://github.com/Gamearoo-s-Development/smart-systems#readme",
+  "description": ""
+}
